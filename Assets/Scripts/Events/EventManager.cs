@@ -12,6 +12,8 @@ public class EventManager : MonoBehaviour
 
     private void OnTriggerStay2D(Collider2D collision)
     {
+        if (playerController.isChasing) { return; }
+
         if (collision.gameObject.CompareTag("Player") && playerController.isRefilled || collision.gameObject.CompareTag("Player") && playerController.lightObject.haveKilled)
         {
             if (playerController.isChasing)

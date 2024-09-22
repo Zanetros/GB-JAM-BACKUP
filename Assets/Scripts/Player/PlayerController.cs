@@ -65,9 +65,17 @@ public class PlayerController : MonoBehaviour
     private void OnTriggerEnter2D(Collider2D collider)
     {
         if (collider.CompareTag("Refill"))
-        {
-            lightObject.RechargeLight(collider.gameObject);
-            isRefilled = true;
+        {         
+            if (isChasing)
+            {
+                lightObject.RechargeLight(collider.gameObject);
+            }
+
+            else
+            {
+                isRefilled = true;
+                lightObject.RechargeLight(collider.gameObject);
+            }
         }
 
         if (collider.CompareTag("Bush"))

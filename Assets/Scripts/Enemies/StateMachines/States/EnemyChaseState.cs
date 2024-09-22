@@ -54,7 +54,7 @@ public class EnemyChaseState : EnemyState
 
         else
         { 
-
+            _playerController.isChasing = true;
             float moveX = _playerTransform.position.x - enemy.agent.transform.position.x;
             float moveY = _playerTransform.position.y - enemy.agent.transform.position.y;
 
