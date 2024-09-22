@@ -76,6 +76,7 @@ public class Capelobo : MonoBehaviour, IAnimation
                 }
             }
 
+            Destroy(projectile, 3);
             Debug.Log("Capelobo lançou um projétil!");
         }
     }
