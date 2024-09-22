@@ -15,6 +15,9 @@ public class CutsceneManager : MonoBehaviour
     [SerializeField] private List<Cutscene> cutscenes;
     private Queue<Cutscene> cutsceneQueue;
 
+    [SerializeField] private AudioClip audioClip;
+    [SerializeField] private string nextScene;
+
     void Start()
     {
         cutsceneQueue = new Queue<Cutscene>();
@@ -29,7 +32,7 @@ public class CutsceneManager : MonoBehaviour
 
     void Update()
     {
-        if (Input.GetMouseButtonDown(0) && !isTyping)
+        if (Input.GetKeyDown(KeyCode.Z) && !isTyping)
         {
             ShowNextCutscene();
         }
@@ -62,14 +65,20 @@ public class CutsceneManager : MonoBehaviour
         isTyping = true;
         cutsceneText.text = "";
 
-        foreach (char letter in sentence.ToCharArray())
+        foreach (char letter in sentence)
         {
             cutsceneText.text += letter;
+
+            if (letter == ' ')
+            {
+                SoundFXManager.instance.PlaySoundFXClip(audioClip, transform, 1f);
+            }
             yield return new WaitForSeconds(typingSpeed);
         }
 
         isTyping = false;
     }
+
 
     void EndCutscene()
     {
@@ -77,10 +86,7 @@ public class CutsceneManager : MonoBehaviour
         cutsceneImage.gameObject.SetActive(false);
         cutsceneText.text = "";
 
-        if (SceneManager.GetActiveScene().name == "cena1")
-        {
-            Debug.Log("Carregando para a próxima cena.");
-            SceneManager.LoadScene("cena2");
-        }
+        Debug.Log("Carregando para a próxima cena.");
+        SceneManager.LoadScene(nextScene);
     }
 }
