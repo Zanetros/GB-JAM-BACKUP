@@ -5310,7 +5310,7 @@ MonoBehaviour:
   indicator: {fileID: 1742305907440941441}
   isMenuActive: 0
   navigationAudioClip: {fileID: 8300000, guid: be3bc0f9c3776c244983a649fb33c983, type: 3}
-  confirmAudioClip: {fileID: 8300000, guid: df64cb041f71b8f4aa3048ae21f76c9e, type: 3}
+  confirmAudioClip: {fileID: 8300000, guid: b9436d61a619adb468ccd89731993c4c, type: 3}
 --- !u!1 &8951793411436093676
 GameObject:
   m_ObjectHideFlags: 0

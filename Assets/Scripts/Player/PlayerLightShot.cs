@@ -8,6 +8,7 @@ public class PlayerLightShot : MonoBehaviour
     [SerializeField] private float scaleReductionAmount = 0.1f;
     [SerializeField] private float minScale = 1.5f;
 
+    [SerializeField] private AudioClip audioClip;
     private float nextScaleReductionTime;
 
     public void ToggleLightning(GameObject lightObject)
@@ -16,6 +17,7 @@ public class PlayerLightShot : MonoBehaviour
         {
             if (!isLightning)
             {
+                SoundFXManager.instance.PlaySoundFXClip(audioClip, transform, 1f);
                 lightObject.SetActive(true);
                 isLightning = true;
                 Debug.Log("ILUMINA SENHOOOR");
