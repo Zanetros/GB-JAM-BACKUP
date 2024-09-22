@@ -14,6 +14,7 @@ public class PauseMenu : MonoBehaviour
 
     [SerializeField] private AudioClip navigationAudioClip;
     [SerializeField] private AudioClip confirmAudioClip;
+    [SerializeField] private int locationX = -35;
 
     private void Update()
     {
@@ -110,6 +111,6 @@ public class PauseMenu : MonoBehaviour
     {
         RectTransform buttonRect = menuButtons[selectedButtonIndex].GetComponent<RectTransform>();
         indicator.SetActive(true);
-        indicator.transform.position = buttonRect.position + new Vector3(-2, 0, 0);
+        indicator.transform.position = buttonRect.position + new Vector3(locationX, 0, 0);
     }
 }

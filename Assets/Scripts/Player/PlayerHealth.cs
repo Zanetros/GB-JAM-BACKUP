@@ -1,4 +1,5 @@
 using UnityEngine;
+using UnityEngine.InputSystem;
 using UnityEngine.SceneManagement;
 using UnityEngine.UI;
 
@@ -16,11 +17,22 @@ public class PlayerHealth : MonoBehaviour
 
     public static PlayerHealth instance;
 
+    private void Update()
+    {
+
+        if (restartPanel.activeSelf)
+        {
+            if (Input.GetKeyDown(KeyCode.Z))
+            {
+                RetryLevel();
+            }
+        }
+    }
     private void Awake()
     {
         currentScene = SceneManager.GetActiveScene().buildIndex;
 
-        if (instance == null )
+        if (instance == null)
         {
             DontDestroyOnLoad(gameObject);
             instance = this;
@@ -29,7 +41,6 @@ public class PlayerHealth : MonoBehaviour
         {
             Destroy(gameObject);
         }
-        
     }
 
     public void TakeDamage(int damage)
