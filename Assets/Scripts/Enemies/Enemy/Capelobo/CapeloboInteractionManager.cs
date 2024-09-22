@@ -109,7 +109,17 @@ public class CapeloboInteractionManager : MonoBehaviour
             }
         }
 
-        OnDialogueEnded?.Invoke();
+        StartCoroutine(WaitAndStartCapeloboBehavior());
     }
 
+    private IEnumerator WaitAndStartCapeloboBehavior()
+    {
+        yield return new WaitForSeconds(2f);
+        Capelobo capelobo = currentInteraction.dialogues[currentInteraction.dialogues.Count - 1].character.GetComponent<Capelobo>();
+        if (capelobo != null)
+        {
+            capelobo.StartAttacking();
+        }
+        OnDialogueEnded?.Invoke();
+    }
 }

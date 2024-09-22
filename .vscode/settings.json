@@ -58,5 +58,5 @@
         "Temp/": true,
         "**/*.inputactions": true
     },
-    "dotnet.defaultSolution": "GB-JAM.sln"
+    "dotnet.defaultSolution": "GB-JAM-BACKUP.sln"
 }
