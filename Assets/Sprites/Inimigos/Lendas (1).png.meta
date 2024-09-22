@@ -1,0 +1,2668 @@
+fileFormatVersion: 2
+guid: c0e58615c69b9e6409a75730e1c212cb
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 2017790206269499806
+    second: Lendas (1)_0
+  - first:
+      213: -5911677542075706341
+    second: Lendas (1)_1
+  - first:
+      213: 5047684097596843065
+    second: Lendas (1)_2
+  - first:
+      213: -4271367046334295504
+    second: Lendas (1)_3
+  - first:
+      213: 1006786184277377973
+    second: Lendas (1)_4
+  - first:
+      213: -5797551055816264561
+    second: Lendas (1)_5
+  - first:
+      213: 5375180664886079616
+    second: Lendas (1)_6
+  - first:
+      213: 5032348522372865795
+    second: Lendas (1)_7
+  - first:
+      213: -2919698573659396577
+    second: Lendas (1)_8
+  - first:
+      213: -4414211932974152176
+    second: Lendas (1)_9
+  - first:
+      213: 7419486073868160086
+    second: Lendas (1)_10
+  - first:
+      213: 9147261606015579604
+    second: Lendas (1)_11
+  - first:
+      213: 6262560713391949699
+    second: Lendas (1)_12
+  - first:
+      213: -6097224204942688175
+    second: Lendas (1)_13
+  - first:
+      213: 5248339806604504579
+    second: Lendas (1)_14
+  - first:
+      213: 379352630239933485
+    second: Lendas (1)_15
+  - first:
+      213: -7938271944315246660
+    second: Lendas (1)_16
+  - first:
+      213: -6595929932809315661
+    second: Lendas (1)_17
+  - first:
+      213: -6968594118479587654
+    second: Lendas (1)_18
+  - first:
+      213: 8716162001983378263
+    second: Lendas (1)_19
+  - first:
+      213: -5103053514250226210
+    second: Lendas (1)_20
+  - first:
+      213: 5231576991616831286
+    second: Lendas (1)_21
+  - first:
+      213: -2381306324359009697
+    second: Lendas (1)_22
+  - first:
+      213: 1153491292544629559
+    second: Lendas (1)_23
+  - first:
+      213: 7492551252033396650
+    second: Lendas (1)_24
+  - first:
+      213: 8406414911596869510
+    second: Lendas (1)_25
+  - first:
+      213: 4650869992781979525
+    second: Lendas (1)_26
+  - first:
+      213: -3673488939421796803
+    second: Lendas (1)_27
+  - first:
+      213: 6145589925973961716
+    second: Lendas (1)_28
+  - first:
+      213: 2319089386704380597
+    second: Lendas (1)_29
+  - first:
+      213: 7469861224544234479
+    second: Lendas (1)_30
+  - first:
+      213: 6306805233757302797
+    second: Lendas (1)_31
+  - first:
+      213: -7412474284453700522
+    second: Lendas (1)_32
+  - first:
+      213: 8515119492606361673
+    second: Lendas (1)_33
+  - first:
+      213: 7088092862873642712
+    second: Lendas (1)_34
+  - first:
+      213: 6696797917679733375
+    second: Lendas (1)_35
+  - first:
+      213: 3549971967267462972
+    second: Lendas (1)_36
+  - first:
+      213: 3989071387470519324
+    second: Lendas (1)_37
+  - first:
+      213: 7864396790014788145
+    second: Lendas (1)_38
+  - first:
+      213: 6214972836783778832
+    second: Lendas (1)_39
+  - first:
+      213: 4326320860328696570
+    second: Lendas (1)_40
+  - first:
+      213: 1175880715048419607
+    second: Lendas (1)_41
+  - first:
+      213: 2956405231587656607
+    second: Lendas (1)_42
+  - first:
+      213: 3540093354432475364
+    second: Lendas (1)_43
+  - first:
+      213: 5465741984915102134
+    second: Lendas (1)_44
+  - first:
+      213: -1582692893569143060
+    second: Lendas (1)_45
+  - first:
+      213: -4902635291286748305
+    second: Lendas (1)_46
+  - first:
+      213: 3560578511460002947
+    second: Lendas (1)_47
+  - first:
+      213: 1155416614468143967
+    second: Lendas (1)_48
+  - first:
+      213: -1560082465107315784
+    second: Lendas (1)_49
+  - first:
+      213: 7723156329788815230
+    second: Lendas (1)_50
+  - first:
+      213: 6850370064292660618
+    second: Lendas (1)_51
+  - first:
+      213: -4098780215054231100
+    second: Lendas (1)_52
+  - first:
+      213: 3047924283823999977
+    second: Lendas (1)_53
+  - first:
+      213: -6704502513222612550
+    second: Lendas (1)_54
+  - first:
+      213: -7346975477252700644
+    second: Lendas (1)_55
+  - first:
+      213: 6942273216456104871
+    second: Lendas (1)_56
+  - first:
+      213: -5930134127859045085
+    second: Lendas (1)_57
+  - first:
+      213: 7283012860312332644
+    second: Lendas (1)_58
+  - first:
+      213: 1266839111636353509
+    second: Lendas (1)_59
+  - first:
+      213: -5362748000735873
+    second: Lendas (1)_60
+  - first:
+      213: 8246069620363838209
+    second: Lendas (1)_61
+  - first:
+      213: 3669459771272043157
+    second: Lendas (1)_62
+  - first:
+      213: 4211288597487098341
+    second: Lendas (1)_63
+  - first:
+      213: 8004064867200938980
+    second: Lendas (1)_64
+  - first:
+      213: 8444526117616758358
+    second: Lendas (1)_65
+  - first:
+      213: 7493307866341182964
+    second: Lendas (1)_66
+  - first:
+      213: 7215381653897621894
+    second: Lendas (1)_67
+  - first:
+      213: -3926415264083871299
+    second: Lendas (1)_68
+  - first:
+      213: 2016797741109671654
+    second: Lendas (1)_69
+  - first:
+      213: -2539469410093728057
+    second: Lendas (1)_70
+  - first:
+      213: 8849403027940608338
+    second: Lendas (1)_71
+  - first:
+      213: -5601330976576376458
+    second: Lendas (1)_72
+  - first:
+      213: -2522279701326402452
+    second: Lendas (1)_73
+  - first:
+      213: -1999786988816302653
+    second: Lendas (1)_74
+  - first:
+      213: -600286094018732302
+    second: Lendas (1)_75
+  - first:
+      213: -2084936162645232242
+    second: Lendas (1)_76
+  - first:
+      213: 6531478990953510911
+    second: Lendas (1)_77
+  - first:
+      213: -5793101363044792548
+    second: Lendas (1)_78
+  - first:
+      213: 5526225574253314826
+    second: Lendas (1)_79
+  - first:
+      213: -5447386228363253434
+    second: Lendas (1)_80
+  - first:
+      213: 6195511256948601003
+    second: Lendas (1)_81
+  - first:
+      213: -6697967839665131708
+    second: Lendas (1)_82
+  - first:
+      213: -3257452414578536310
+    second: Lendas (1)_83
+  - first:
+      213: -443057793730776806
+    second: Lendas (1)_84
+  - first:
+      213: -1050866370620737711
+    second: Lendas (1)_85
+  - first:
+      213: 4613506039152897841
+    second: Lendas (1)_86
+  - first:
+      213: -5331581728899399026
+    second: Lendas (1)_87
+  - first:
+      213: 3230880959258122612
+    second: Lendas (1)_88
+  - first:
+      213: 2750024394946732819
+    second: Lendas (1)_89
+  - first:
+      213: 2675172965313871161
+    second: Lendas (1)_90
+  - first:
+      213: 8962508004059163964
+    second: Lendas (1)_91
+  - first:
+      213: -2355068317596297342
+    second: Lendas (1)_92
+  - first:
+      213: -5755017603279653253
+    second: Lendas (1)_93
+  - first:
+      213: -421830005800929537
+    second: Lendas (1)_94
+  - first:
+      213: 160902234546566979
+    second: Lendas (1)_95
+  - first:
+      213: -7380443306648836832
+    second: Lendas (1)_96
+  - first:
+      213: 5325217085962404843
+    second: Lendas (1)_97
+  - first:
+      213: 3734002990313691629
+    second: Lendas (1)_98
+  - first:
+      213: 2321450851078455374
+    second: Lendas (1)_99
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 10
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Win64
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Lendas (1)_0
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 448
+        width: 10
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e99a4fb7081a00c10800000000000000
+      internalID: 2017790206269499806
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lendas (1)_1
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 431
+        width: 10
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b145cedc89085fda0800000000000000
+      internalID: -5911677542075706341
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lendas (1)_2
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 431
+        width: 10
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 934e5a761f9fc0640800000000000000
+      internalID: 5047684097596843065
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lendas (1)_3
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 448
+        width: 10
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0325fe15d4e09b4c0800000000000000
+      internalID: -4271367046334295504
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lendas (1)_4
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 431
+        width: 10
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b3cf9e43b2d8fd00800000000000000
+      internalID: 1006786184277377973
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lendas (1)_5
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 447
+        width: 10
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f8471ee0806fa8fa0800000000000000
+      internalID: -5797551055816264561
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lendas (1)_6
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 431
+        width: 10
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0803516f55a789a40800000000000000
+      internalID: 5375180664886079616
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lendas (1)_7
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 447
+        width: 10
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 30f1ffd815e76d540800000000000000
+      internalID: 5032348522372865795
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lendas (1)_8
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 431
+        width: 35
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f1621d1dd952b77d0800000000000000
+      internalID: -2919698573659396577
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lendas (1)_9
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 448
+        width: 13
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 01609cb62a19db2c0800000000000000
+      internalID: -4414211932974152176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lendas (1)_10
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 447
+        width: 12
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 65c8ed8264f47f660800000000000000
+      internalID: 7419486073868160086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lendas (1)_11
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 447
+        width: 13
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d5b02667f991fe70800000000000000
+      internalID: 9147261606015579604
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lendas (1)_12
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 431
+        width: 34
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3874b02d9c519e650800000000000000
+      internalID: 6262560713391949699
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lendas (1)_13
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 402
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1504a7cd3ee426ba0800000000000000
+      internalID: -6097224204942688175
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lendas (1)_14
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 415
+        width: 34
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 30e24394f39d5d840800000000000000
+      internalID: 5248339806604504579
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lendas (1)_15
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 415
+        width: 35
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d24bf02153bb34500800000000000000
+      internalID: 379352630239933485
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lendas (1)_16
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 402
+        width: 15
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb7e3a4b9b795d190800000000000000
+      internalID: -7938271944315246660
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lendas (1)_17
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 383
+        width: 17
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3bad88f3cac8674a0800000000000000
+      internalID: -6595929932809315661
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lendas (1)_18
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 383
+        width: 17
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab6d52802949a4f90800000000000000
+      internalID: -6968594118479587654
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lendas (1)_19
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 383
+        width: 17
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7531afc192706f870800000000000000
+      internalID: 8716162001983378263
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lendas (1)_20
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 383
+        width: 17
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed57e4daddf4e29b0800000000000000
+      internalID: -5103053514250226210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lendas (1)_21
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 383
+        width: 15
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 63f8d684e8b4a9840800000000000000
+      internalID: 5231576991616831286
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lendas (1)_22
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 383
+        width: 17
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f5aa033c386e3fed0800000000000000
+      internalID: -2381306324359009697
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lendas (1)_23
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 383
+        width: 16
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 73bf0a71836020010800000000000000
+      internalID: 1153491292544629559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lendas (1)_24
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 383
+        width: 15
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aafdbde9aa3eaf760800000000000000
+      internalID: 7492551252033396650
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lendas (1)_25
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 383
+        width: 19
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6873740b2d599a470800000000000000
+      internalID: 8406414911596869510
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lendas (1)_26
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 383
+        width: 19
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 58f1b48fd953b8040800000000000000
+      internalID: 4650869992781979525
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lendas (1)_27
+      rect:
+        serializedVersion: 2
+        x: 254
+        y: 383
+        width: 19
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d36ff67c545250dc0800000000000000
+      internalID: -3673488939421796803
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lendas (1)_28
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 383
+        width: 19
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4fba5e81a75894550800000000000000
+      internalID: 6145589925973961716
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lendas (1)_29
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 386
+        width: 15
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b2a4e8928f0f2020800000000000000
+      internalID: 2319089386704380597
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lendas (1)_30
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 386
+        width: 15
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: feb6c6ae4374aa760800000000000000
+      internalID: 7469861224544234479
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lendas (1)_31
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 368
+        width: 15
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d00bda9f1f5468750800000000000000
+      internalID: 6306805233757302797
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lendas (1)_32
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 351
+        width: 17
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 65c5b6849e9912990800000000000000
+      internalID: -7412474284453700522
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lendas (1)_33
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 351
+        width: 17
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9408ec04018cb2670800000000000000
+      internalID: 8515119492606361673
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lendas (1)_34
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 351
+        width: 16
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d6a09a87e6fd5260800000000000000
+      internalID: 7088092862873642712
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lendas (1)_35
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 351
+        width: 16
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f7a40e7993ecfec50800000000000000
+      internalID: 6696797917679733375
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lendas (1)_36
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 351
+        width: 16
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c3f529712b8044130800000000000000
+      internalID: 3549971967267462972
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lendas (1)_37
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 351
+        width: 16
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c1cdad9ba470c5730800000000000000
+      internalID: 3989071387470519324
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lendas (1)_38
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 355
+        width: 15
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 132cd819633f32d60800000000000000
+      internalID: 7864396790014788145
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lendas (1)_39
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 339
+        width: 15
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 01ce231edd4004650800000000000000
+      internalID: 6214972836783778832
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lendas (1)_40
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 319
+        width: 16
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: afa114096ed2a0c30800000000000000
+      internalID: 4326320860328696570
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lendas (1)_41
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 319
+        width: 17
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 71181beb741915010800000000000000
+      internalID: 1175880715048419607
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lendas (1)_42
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 319
+        width: 16
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f9383e8f4e2470920800000000000000
+      internalID: 2956405231587656607
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lendas (1)_43
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 319
+        width: 16
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e03bae4620f02130800000000000000
+      internalID: 3540093354432475364
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lendas (1)_44
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 319
+        width: 17
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b99dc460673adb40800000000000000
+      internalID: 5465741984915102134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lendas (1)_45
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 319
+        width: 17
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ceea642e235290ae0800000000000000
+      internalID: -1582692893569143060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lendas (1)_46
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 321
+        width: 15
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f634f878d2756fbb0800000000000000
+      internalID: -4902635291286748305
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lendas (1)_47
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 271
+        width: 21
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 38c667a9a47b96130800000000000000
+      internalID: 3560578511460002947
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lendas (1)_48
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 271
+        width: 20
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f5b45f80a4dd80010800000000000000
+      internalID: 1155416614468143967
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lendas (1)_49
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 271
+        width: 20
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b376fe7349795ae0800000000000000
+      internalID: -1560082465107315784
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lendas (1)_50
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 271
+        width: 21
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e773fdd43c92e2b60800000000000000
+      internalID: 7723156329788815230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lendas (1)_51
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 271
+        width: 19
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a8542265747611f50800000000000000
+      internalID: 6850370064292660618
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lendas (1)_52
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 271
+        width: 19
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c91b455c153e17c0800000000000000
+      internalID: -4098780215054231100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lendas (1)_53
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 271
+        width: 19
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ebcd9fccf66c4a20800000000000000
+      internalID: 3047924283823999977
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lendas (1)_54
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 271
+        width: 19
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab907a77c72d4f2a0800000000000000
+      internalID: -6704502513222612550
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lendas (1)_55
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 271
+        width: 26
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c16c8d8babc4a0a90800000000000000
+      internalID: -7346975477252700644
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lendas (1)_56
+      rect:
+        serializedVersion: 2
+        x: 249
+        y: 271
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ab139865b8e75060800000000000000
+      internalID: 6942273216456104871
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lendas (1)_57
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 271
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 32d6a8e0e6ee3bda0800000000000000
+      internalID: -5930134127859045085
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lendas (1)_58
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 271
+        width: 26
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 469a4810c95721560800000000000000
+      internalID: 7283012860312332644
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lendas (1)_59
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 223
+        width: 22
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e108a4c577b49110800000000000000
+      internalID: 1266839111636353509
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lendas (1)_60
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 223
+        width: 22
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f7d656eeb92fceff0800000000000000
+      internalID: -5362748000735873
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lendas (1)_61
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 223
+        width: 22
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1034de251acef6270800000000000000
+      internalID: 8246069620363838209
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lendas (1)_62
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 223
+        width: 23
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 59a9148683a8ce230800000000000000
+      internalID: 3669459771272043157
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lendas (1)_63
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 223
+        width: 25
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e91fd3caa0817a30800000000000000
+      internalID: 4211288597487098341
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lendas (1)_64
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 223
+        width: 23
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e332b0e696241f60800000000000000
+      internalID: 8004064867200938980
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lendas (1)_65
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 175
+        width: 25
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 65e2e0153cbf03570800000000000000
+      internalID: 8444526117616758358
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lendas (1)_66
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 175
+        width: 23
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4fd08ed9dc39df760800000000000000
+      internalID: 7493307866341182964
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lendas (1)_67
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 175
+        width: 22
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 681307fa26f222460800000000000000
+      internalID: 7215381653897621894
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lendas (1)_68
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 175
+        width: 24
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db9fb9fce129289c0800000000000000
+      internalID: -3926415264083871299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lendas (1)_69
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 175
+        width: 24
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e6f6ae2cda1dfb10800000000000000
+      internalID: 2016797741109671654
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lendas (1)_70
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 175
+        width: 23
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ce7465b60ef1ccd0800000000000000
+      internalID: -2539469410093728057
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lendas (1)_71
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 143
+        width: 18
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2598aa2fa256fca70800000000000000
+      internalID: 8849403027940608338
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lendas (1)_72
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 143
+        width: 20
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 671f5c767231442b0800000000000000
+      internalID: -5601330976576376458
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lendas (1)_73
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 143
+        width: 20
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c6ce24aa9ff0ffcd0800000000000000
+      internalID: -2522279701326402452
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lendas (1)_74
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 143
+        width: 18
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3cdf72934545f34e0800000000000000
+      internalID: -1999786988816302653
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lendas (1)_75
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 143
+        width: 19
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2fe186a5afa5ba7f0800000000000000
+      internalID: -600286094018732302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lendas (1)_76
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 143
+        width: 20
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e853a264b91d013e0800000000000000
+      internalID: -2084936162645232242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lendas (1)_77
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 143
+        width: 20
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff7f5b9798974aa50800000000000000
+      internalID: 6531478990953510911
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lendas (1)_78
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 143
+        width: 19
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c1742e3e005ca9fa0800000000000000
+      internalID: -5793101363044792548
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lendas (1)_80
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 143
+        width: 26
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 649ad08361ff664b0800000000000000
+      internalID: -5447386228363253434
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lendas (1)_82
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 143
+        width: 21
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 44fe4c7bcb90c03a0800000000000000
+      internalID: -6697967839665131708
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lendas (1)_83
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 143
+        width: 21
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a80de44a9443bc2d0800000000000000
+      internalID: -3257452414578536310
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lendas (1)_85
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 143
+        width: 26
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1573fb88a929a61f0800000000000000
+      internalID: -1050866370620737711
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lendas (1)_87
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 111
+        width: 23
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e820dfd5aaa6206b0800000000000000
+      internalID: -5331581728899399026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lendas (1)_88
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 111
+        width: 20
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 47957205d1566dc20800000000000000
+      internalID: 3230880959258122612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lendas (1)_89
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 111
+        width: 20
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3136570fd9c0a2620800000000000000
+      internalID: 2750024394946732819
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lendas (1)_90
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 111
+        width: 20
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 93df24663af102520800000000000000
+      internalID: 2675172965313871161
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lendas (1)_91
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 79
+        width: 22
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c3daa865b89316c70800000000000000
+      internalID: 8962508004059163964
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lendas (1)_92
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 79
+        width: 20
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 28755e3c7dd115fd0800000000000000
+      internalID: -2355068317596297342
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lendas (1)_93
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 79
+        width: 20
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b7675603bf11220b0800000000000000
+      internalID: -5755017603279653253
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lendas (1)_94
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 79
+        width: 20
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff672ac38db552af0800000000000000
+      internalID: -421830005800929537
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lendas (1)_95
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 15
+        width: 34
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 347f6b5dab3ab3200800000000000000
+      internalID: 160902234546566979
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lendas (1)_96
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 15
+        width: 31
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 02569467ae5639990800000000000000
+      internalID: -7380443306648836832
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lendas (1)_97
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 15
+        width: 18
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be341a8b9b8f6e940800000000000000
+      internalID: 5325217085962404843
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lendas (1)_98
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 15
+        width: 22
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de9d4e3afe7d1d330800000000000000
+      internalID: 3734002990313691629
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lendas (1)_99
+      rect:
+        serializedVersion: 2
+        x: 186
+        y: 15
+        width: 19
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e404f0edf33773020800000000000000
+      internalID: 2321450851078455374
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 8243c52ba6dc9eb4d982c2cc98ee270f
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Lendas (1)_0: 2017790206269499806
+      Lendas (1)_1: -5911677542075706341
+      Lendas (1)_10: 7419486073868160086
+      Lendas (1)_11: 9147261606015579604
+      Lendas (1)_12: 6262560713391949699
+      Lendas (1)_13: -6097224204942688175
+      Lendas (1)_14: 5248339806604504579
+      Lendas (1)_15: 379352630239933485
+      Lendas (1)_16: -7938271944315246660
+      Lendas (1)_17: -6595929932809315661
+      Lendas (1)_18: -6968594118479587654
+      Lendas (1)_19: 8716162001983378263
+      Lendas (1)_2: 5047684097596843065
+      Lendas (1)_20: -5103053514250226210
+      Lendas (1)_21: 5231576991616831286
+      Lendas (1)_22: -2381306324359009697
+      Lendas (1)_23: 1153491292544629559
+      Lendas (1)_24: 7492551252033396650
+      Lendas (1)_25: 8406414911596869510
+      Lendas (1)_26: 4650869992781979525
+      Lendas (1)_27: -3673488939421796803
+      Lendas (1)_28: 6145589925973961716
+      Lendas (1)_29: 2319089386704380597
+      Lendas (1)_3: -4271367046334295504
+      Lendas (1)_30: 7469861224544234479
+      Lendas (1)_31: 6306805233757302797
+      Lendas (1)_32: -7412474284453700522
+      Lendas (1)_33: 8515119492606361673
+      Lendas (1)_34: 7088092862873642712
+      Lendas (1)_35: 6696797917679733375
+      Lendas (1)_36: 3549971967267462972
+      Lendas (1)_37: 3989071387470519324
+      Lendas (1)_38: 7864396790014788145
+      Lendas (1)_39: 6214972836783778832
+      Lendas (1)_4: 1006786184277377973
+      Lendas (1)_40: 4326320860328696570
+      Lendas (1)_41: 1175880715048419607
+      Lendas (1)_42: 2956405231587656607
+      Lendas (1)_43: 3540093354432475364
+      Lendas (1)_44: 5465741984915102134
+      Lendas (1)_45: -1582692893569143060
+      Lendas (1)_46: -4902635291286748305
+      Lendas (1)_47: 3560578511460002947
+      Lendas (1)_48: 1155416614468143967
+      Lendas (1)_49: -1560082465107315784
+      Lendas (1)_5: -5797551055816264561
+      Lendas (1)_50: 7723156329788815230
+      Lendas (1)_51: 6850370064292660618
+      Lendas (1)_52: -4098780215054231100
+      Lendas (1)_53: 3047924283823999977
+      Lendas (1)_54: -6704502513222612550
+      Lendas (1)_55: -7346975477252700644
+      Lendas (1)_56: 6942273216456104871
+      Lendas (1)_57: -5930134127859045085
+      Lendas (1)_58: 7283012860312332644
+      Lendas (1)_59: 1266839111636353509
+      Lendas (1)_6: 5375180664886079616
+      Lendas (1)_60: -5362748000735873
+      Lendas (1)_61: 8246069620363838209
+      Lendas (1)_62: 3669459771272043157
+      Lendas (1)_63: 4211288597487098341
+      Lendas (1)_64: 8004064867200938980
+      Lendas (1)_65: 8444526117616758358
+      Lendas (1)_66: 7493307866341182964
+      Lendas (1)_67: 7215381653897621894
+      Lendas (1)_68: -3926415264083871299
+      Lendas (1)_69: 2016797741109671654
+      Lendas (1)_7: 5032348522372865795
+      Lendas (1)_70: -2539469410093728057
+      Lendas (1)_71: 8849403027940608338
+      Lendas (1)_72: -5601330976576376458
+      Lendas (1)_73: -2522279701326402452
+      Lendas (1)_74: -1999786988816302653
+      Lendas (1)_75: -600286094018732302
+      Lendas (1)_76: -2084936162645232242
+      Lendas (1)_77: 6531478990953510911
+      Lendas (1)_78: -5793101363044792548
+      Lendas (1)_79: 5526225574253314826
+      Lendas (1)_8: -2919698573659396577
+      Lendas (1)_80: -5447386228363253434
+      Lendas (1)_81: 6195511256948601003
+      Lendas (1)_82: -6697967839665131708
+      Lendas (1)_83: -3257452414578536310
+      Lendas (1)_84: -443057793730776806
+      Lendas (1)_85: -1050866370620737711
+      Lendas (1)_86: 4613506039152897841
+      Lendas (1)_87: -5331581728899399026
+      Lendas (1)_88: 3230880959258122612
+      Lendas (1)_89: 2750024394946732819
+      Lendas (1)_9: -4414211932974152176
+      Lendas (1)_90: 2675172965313871161
+      Lendas (1)_91: 8962508004059163964
+      Lendas (1)_92: -2355068317596297342
+      Lendas (1)_93: -5755017603279653253
+      Lendas (1)_94: -421830005800929537
+      Lendas (1)_95: 160902234546566979
+      Lendas (1)_96: -7380443306648836832
+      Lendas (1)_97: 5325217085962404843
+      Lendas (1)_98: 3734002990313691629
+      Lendas (1)_99: 2321450851078455374
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

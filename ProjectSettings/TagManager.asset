@@ -1,0 +1,68 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 3
+  tags:
+  - Enemy
+  - Refill
+  - Bush
+  - LeavePlayer
+  - ReconArea
+  - Mud
+  - Esmilinguido
+  - Corvo
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - Splash Art
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Enemy
+    uniqueID: 8916189
+    locked: 0
+  - name: Player
+    uniqueID: 1033848809
+    locked: 0
+  - name: Splash Art
+    uniqueID: 1409844013
+    locked: 0
+  - name: UI
+    uniqueID: 3765458501
+    locked: 0
+  - name: Tree
+    uniqueID: 4104363315
+    locked: 0
+  m_RenderingLayers:
+  - Default
