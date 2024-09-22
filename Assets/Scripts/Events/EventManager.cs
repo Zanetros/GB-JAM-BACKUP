@@ -12,7 +12,7 @@ public class EventManager : MonoBehaviour
 
     private void OnTriggerStay2D(Collider2D collision)
     {
-        if (collision.gameObject.CompareTag("Player") && playerController.isRefilled)
+        if (collision.gameObject.CompareTag("Player") && playerController.isRefilled || collision.gameObject.CompareTag("Player") && playerController.lightObject.haveKilled)
         {
             if (playerController.isChasing)
             {
@@ -22,6 +22,7 @@ public class EventManager : MonoBehaviour
             else
             {
                 playerController.isRefilled = false;
+                playerController.lightObject.haveKilled = false;
                 playerController.isChasing = true;
                 enemy.SetActive(true);
                 Destroy(gameObject);

@@ -6,13 +6,13 @@ public class PlayerController : MonoBehaviour
     public bool isHiding;
     public bool isRefilled;
     public bool isChasing;
+    public Light lightObject;
 
     [SerializeField] private PlayerMovement playerMovement;
     [SerializeField] private PauseMenu pauseMenu;
     [SerializeField] private PlayerHealth playerHealth;
     [SerializeField] private SpriteRenderer lightRenderer;
     [SerializeField] private Collider2D playerCollider;
-    private Light lightObject;
     private PlayerLightShot playerLightShot;
     private SpriteRenderer spriteRenderer;
 

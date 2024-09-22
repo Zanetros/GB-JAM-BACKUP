@@ -3,6 +3,7 @@ using UnityEngine;
 public class Light : MonoBehaviour
 {
     [SerializeField] private Vector3 originalScale;
+    public bool haveKilled;
 
     private void Start()
     {
@@ -14,6 +15,7 @@ public class Light : MonoBehaviour
         {
             Debug.Log("RECEBA A ILUMINAÇÃO");
             Destroy(collider.gameObject);
+            haveKilled = true;
         }
     }
     public void RechargeLight(GameObject refillObject)
