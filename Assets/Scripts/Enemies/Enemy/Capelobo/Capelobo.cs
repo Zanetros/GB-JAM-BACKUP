@@ -4,6 +4,7 @@ using UnityEngine;
 public class Capelobo : MonoBehaviour, IAnimation
 {
     private Animator animator;
+    private Enemy enemy;
     [SerializeField] private GameObject invisibleBarrier;
     [SerializeField] private GameObject projectilePrefab;
 
@@ -13,6 +14,7 @@ public class Capelobo : MonoBehaviour, IAnimation
     private void Start()
     {
         animator = GetComponent<Animator>();
+        enemy = GetComponent<Enemy>();  
     }
 
     public void Transform()
@@ -20,6 +22,7 @@ public class Capelobo : MonoBehaviour, IAnimation
         if (animator != null)
         {
             animator.SetTrigger("transform");
+            StartCoroutine(WaitTransform());
             Debug.Log("Começando a animação!");
         }
         else
@@ -79,5 +82,12 @@ public class Capelobo : MonoBehaviour, IAnimation
             Destroy(projectile, 3);
             Debug.Log("Capelobo lançou um projétil!");
         }
+    }
+
+    public IEnumerator WaitTransform()
+    {
+        yield return new WaitForSeconds(1);
+        enemy.enabled = true;
+        animator.SetTrigger("transform");
     }
 }
