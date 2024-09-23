@@ -22,6 +22,7 @@ public class PlayerController : MonoBehaviour
     public float mudSpeed = 2.5f;
 
     [SerializeField] private AudioClip refillAudioClip;
+    [SerializeField] private AudioClip bushAudioClip;
 
     private void Start()
     {
@@ -67,7 +68,7 @@ public class PlayerController : MonoBehaviour
     {
         if (collider.CompareTag("Refill"))
         {
-            SoundFXManager.instance.PlaySoundFXClip(refillAudioClip, transform, 3f);
+            SoundFXManager.instance.PlaySoundFXClip(refillAudioClip, transform, 5f);
             if (isChasing)
             {
                 lightObject.RechargeLight(collider.gameObject);
@@ -81,6 +82,7 @@ public class PlayerController : MonoBehaviour
 
         if (collider.CompareTag("Bush"))
         {
+            SoundFXManager.instance.PlaySoundFXClip(bushAudioClip, transform, 1f);
             isHiding = true;
             spriteRenderer.renderingLayerMask = 0;
             lightRenderer.renderingLayerMask = 0;

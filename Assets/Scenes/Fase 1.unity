@@ -213,7 +213,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 0
+  m_IsActive: 1
 --- !u!114 &47563737
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -2129,7 +2129,7 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 105220448808874042, guid: 6a2bc7029b68f2ce4a6c116f8660c773, type: 3}
       propertyPath: m_Volume
-      value: 0.15
+      value: 0.093
       objectReference: {fileID: 0}
     - target: {fileID: 105220448808874042, guid: 6a2bc7029b68f2ce4a6c116f8660c773, type: 3}
       propertyPath: m_Resource

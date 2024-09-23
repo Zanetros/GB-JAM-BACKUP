@@ -288,8 +288,8 @@ MonoBehaviour:
       m_Calls: []
   m_text: 
   m_isRightToLeft: 0
-  m_fontAsset: {fileID: 11400000, guid: 84b99754ac3f930448c49d76904f5276, type: 2}
-  m_sharedMaterial: {fileID: 5904940990807056936, guid: 84b99754ac3f930448c49d76904f5276, type: 2}
+  m_fontAsset: {fileID: 11400000, guid: 4c815c7262a52f34ca1a3017b10a9304, type: 2}
+  m_sharedMaterial: {fileID: 6942957913479150348, guid: 4c815c7262a52f34ca1a3017b10a9304, type: 2}
   m_fontSharedMaterials: []
   m_fontMaterial: {fileID: 0}
   m_fontMaterials: []
@@ -550,6 +550,8 @@ MonoBehaviour:
       dinner\u2026"
   - image: {fileID: 1518181057, guid: c9c34a70aca95dc4ba38a3b14a43b3c0, type: 3}
     text: Dinner at this hour?
+  - image: {fileID: 1518181057, guid: c9c34a70aca95dc4ba38a3b14a43b3c0, type: 3}
+    text: To be continued...
   audioClip: {fileID: 8300000, guid: df64cb041f71b8f4aa3048ae21f76c9e, type: 3}
   nextScene: Menu Principal
 --- !u!4 &1393585533
