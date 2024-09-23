@@ -16,7 +16,7 @@ public class InteractionTrigger : MonoBehaviour
 
     private void Update()
     {
-        if (isPlayerInRange && Input.GetKeyDown(KeyCode.E))
+        if (isPlayerInRange && Input.GetKeyDown(KeyCode.Z))
         {
             if (pauseMenu.isMenuActive) return;
 
