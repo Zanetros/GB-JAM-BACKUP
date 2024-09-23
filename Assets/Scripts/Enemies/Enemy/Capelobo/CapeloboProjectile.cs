@@ -17,8 +17,12 @@ public class CapeloboProjectile : MonoBehaviour
 
     private void Update()
     {
-        transform.Translate(direction * speed * Time.deltaTime);
+        if (direction != Vector2.zero)
+        {
+            transform.Translate(direction * speed * Time.deltaTime);
+        }
     }
+
 
     private void OnTriggerEnter2D(Collider2D collision)
     {

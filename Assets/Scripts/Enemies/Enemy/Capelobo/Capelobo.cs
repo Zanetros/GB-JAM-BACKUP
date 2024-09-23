@@ -71,12 +71,13 @@ public class Capelobo : MonoBehaviour, IAnimation
 
             if (playerPosition != Vector3.zero)
             {
-                Vector2 direction = (playerPosition - transform.position).normalized;
+                Vector2 direction = (playerPosition - transform.position);
                 CapeloboProjectile projectileScript = projectile.GetComponent<CapeloboProjectile>();
 
                 if (projectileScript != null)
                 {
                     projectileScript.SetDirection(direction);
+                    Debug.Log($"Direção do projétil: {direction}");
                 }
             }
 
@@ -84,6 +85,7 @@ public class Capelobo : MonoBehaviour, IAnimation
             Debug.Log("Capelobo lançou um projétil!");
         }
     }
+
 
 
     public IEnumerator WaitTransform()

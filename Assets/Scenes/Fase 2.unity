@@ -206,7 +206,6 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 188945847}
-  - component: {fileID: 188945850}
   - component: {fileID: 188945849}
   - component: {fileID: 188945848}
   - component: {fileID: 188945851}
@@ -333,20 +332,6 @@ BoxCollider2D:
   m_AutoTiling: 0
   m_Size: {x: 1, y: 1}
   m_EdgeRadius: 0
---- !u!114 &188945850
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 188945846}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 8c7c063427ae53141a94ef3ae5d3b509, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  enemyPrefab: {fileID: 2823074657986161603, guid: 6a86a2c1f72213b499f205d0a89b4e5b, type: 3}
-  spawnInterval: 2
 --- !u!114 &188945851
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -368,7 +353,6 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 200921243}
-  - component: {fileID: 200921246}
   - component: {fileID: 200921245}
   - component: {fileID: 200921244}
   - component: {fileID: 200921247}
@@ -495,20 +479,6 @@ BoxCollider2D:
   m_AutoTiling: 0
   m_Size: {x: 1, y: 1}
   m_EdgeRadius: 0
---- !u!114 &200921246
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 200921242}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 8c7c063427ae53141a94ef3ae5d3b509, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  enemyPrefab: {fileID: 2823074657986161603, guid: 6a86a2c1f72213b499f205d0a89b4e5b, type: 3}
-  spawnInterval: 2
 --- !u!114 &200921247
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -1246,7 +1216,6 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 443459354}
-  - component: {fileID: 443459357}
   - component: {fileID: 443459356}
   - component: {fileID: 443459355}
   - component: {fileID: 443459358}
@@ -1373,20 +1342,6 @@ BoxCollider2D:
   m_AutoTiling: 0
   m_Size: {x: 1, y: 1}
   m_EdgeRadius: 0
---- !u!114 &443459357
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 443459353}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 8c7c063427ae53141a94ef3ae5d3b509, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  enemyPrefab: {fileID: 2823074657986161603, guid: 6a86a2c1f72213b499f205d0a89b4e5b, type: 3}
-  spawnInterval: 2
 --- !u!114 &443459358
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -1418,7 +1373,6 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 506102795}
-  - component: {fileID: 506102798}
   - component: {fileID: 506102797}
   - component: {fileID: 506102796}
   - component: {fileID: 506102799}
@@ -1545,20 +1499,6 @@ BoxCollider2D:
   m_AutoTiling: 0
   m_Size: {x: 1, y: 1}
   m_EdgeRadius: 0
---- !u!114 &506102798
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 506102794}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 8c7c063427ae53141a94ef3ae5d3b509, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  enemyPrefab: {fileID: 2823074657986161603, guid: 6a86a2c1f72213b499f205d0a89b4e5b, type: 3}
-  spawnInterval: 2
 --- !u!114 &506102799
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -17441,6 +17381,14 @@ PrefabInstance:
       propertyPath: m_text
       value: 
       objectReference: {fileID: 0}
+    - target: {fileID: 3966374956769012311, guid: 9218472ec3e0d3c42ac69186666e5c75, type: 3}
+      propertyPath: m_fontAsset
+      value: 
+      objectReference: {fileID: 11400000, guid: 4c815c7262a52f34ca1a3017b10a9304, type: 2}
+    - target: {fileID: 3966374956769012311, guid: 9218472ec3e0d3c42ac69186666e5c75, type: 3}
+      propertyPath: m_hasFontAssetChanged
+      value: 1
+      objectReference: {fileID: 0}
     - target: {fileID: 5510604114418285339, guid: 9218472ec3e0d3c42ac69186666e5c75, type: 3}
       propertyPath: m_text
       value: 
@@ -17450,12 +17398,20 @@ PrefabInstance:
       value: 6
       objectReference: {fileID: 0}
     - target: {fileID: 5510604114418285339, guid: 9218472ec3e0d3c42ac69186666e5c75, type: 3}
+      propertyPath: m_fontAsset
+      value: 
+      objectReference: {fileID: 11400000, guid: 4c815c7262a52f34ca1a3017b10a9304, type: 2}
+    - target: {fileID: 5510604114418285339, guid: 9218472ec3e0d3c42ac69186666e5c75, type: 3}
       propertyPath: m_fontSizeBase
       value: 6
       objectReference: {fileID: 0}
     - target: {fileID: 5510604114418285339, guid: 9218472ec3e0d3c42ac69186666e5c75, type: 3}
       propertyPath: m_enableAutoSizing
       value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5510604114418285339, guid: 9218472ec3e0d3c42ac69186666e5c75, type: 3}
+      propertyPath: m_hasFontAssetChanged
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 7409225521610328915, guid: 9218472ec3e0d3c42ac69186666e5c75, type: 3}
       propertyPath: m_ChildControlHeight
@@ -17550,6 +17506,10 @@ PrefabInstance:
       value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 8409324841780828912, guid: 9218472ec3e0d3c42ac69186666e5c75, type: 3}
+      propertyPath: m_SizeDelta.x
+      value: 137.967
+      objectReference: {fileID: 0}
+    - target: {fileID: 8409324841780828912, guid: 9218472ec3e0d3c42ac69186666e5c75, type: 3}
       propertyPath: m_SizeDelta.y
       value: 7.205
       objectReference: {fileID: 0}
@@ -17563,7 +17523,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 8409324841780828912, guid: 9218472ec3e0d3c42ac69186666e5c75, type: 3}
       propertyPath: m_AnchoredPosition.x
-      value: 0
+      value: 73.9835
       objectReference: {fileID: 0}
     - target: {fileID: 8409324841780828912, guid: 9218472ec3e0d3c42ac69186666e5c75, type: 3}
       propertyPath: m_AnchoredPosition.y
@@ -17670,7 +17630,6 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 1316668787}
-  - component: {fileID: 1316668790}
   - component: {fileID: 1316668789}
   - component: {fileID: 1316668788}
   - component: {fileID: 1316668791}
@@ -17797,20 +17756,6 @@ BoxCollider2D:
   m_AutoTiling: 0
   m_Size: {x: 1, y: 1}
   m_EdgeRadius: 0
---- !u!114 &1316668790
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1316668786}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 8c7c063427ae53141a94ef3ae5d3b509, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  enemyPrefab: {fileID: 2823074657986161603, guid: 6a86a2c1f72213b499f205d0a89b4e5b, type: 3}
-  spawnInterval: 2
 --- !u!114 &1316668791
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -18119,7 +18064,6 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 1536354902}
-  - component: {fileID: 1536354905}
   - component: {fileID: 1536354904}
   - component: {fileID: 1536354903}
   - component: {fileID: 1536354906}
@@ -18246,20 +18190,6 @@ BoxCollider2D:
   m_AutoTiling: 0
   m_Size: {x: 1, y: 1}
   m_EdgeRadius: 0
---- !u!114 &1536354905
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1536354901}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 8c7c063427ae53141a94ef3ae5d3b509, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  enemyPrefab: {fileID: 2823074657986161603, guid: 6a86a2c1f72213b499f205d0a89b4e5b, type: 3}
-  spawnInterval: 2
 --- !u!114 &1536354906
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -18539,7 +18469,6 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 1730560864}
-  - component: {fileID: 1730560867}
   - component: {fileID: 1730560866}
   - component: {fileID: 1730560865}
   - component: {fileID: 1730560868}
@@ -18666,20 +18595,6 @@ BoxCollider2D:
   m_AutoTiling: 0
   m_Size: {x: 1, y: 1}
   m_EdgeRadius: 0
---- !u!114 &1730560867
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1730560863}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 8c7c063427ae53141a94ef3ae5d3b509, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  enemyPrefab: {fileID: 2823074657986161603, guid: 6a86a2c1f72213b499f205d0a89b4e5b, type: 3}
-  spawnInterval: 2
 --- !u!114 &1730560868
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -18701,7 +18616,6 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 1767553619}
-  - component: {fileID: 1767553622}
   - component: {fileID: 1767553621}
   - component: {fileID: 1767553620}
   - component: {fileID: 1767553623}
@@ -18828,20 +18742,6 @@ BoxCollider2D:
   m_AutoTiling: 0
   m_Size: {x: 1, y: 1}
   m_EdgeRadius: 0
---- !u!114 &1767553622
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1767553618}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 8c7c063427ae53141a94ef3ae5d3b509, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  enemyPrefab: {fileID: 2823074657986161603, guid: 6a86a2c1f72213b499f205d0a89b4e5b, type: 3}
-  spawnInterval: 2
 --- !u!114 &1767553623
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -18970,7 +18870,6 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 1897112415}
-  - component: {fileID: 1897112418}
   - component: {fileID: 1897112417}
   - component: {fileID: 1897112416}
   - component: {fileID: 1897112419}
@@ -19097,20 +18996,6 @@ BoxCollider2D:
   m_AutoTiling: 0
   m_Size: {x: 1, y: 1}
   m_EdgeRadius: 0
---- !u!114 &1897112418
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1897112414}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 8c7c063427ae53141a94ef3ae5d3b509, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  enemyPrefab: {fileID: 2823074657986161603, guid: 6a86a2c1f72213b499f205d0a89b4e5b, type: 3}
-  spawnInterval: 2
 --- !u!114 &1897112419
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -19460,6 +19345,14 @@ PrefabInstance:
       propertyPath: pauseMenu
       value: 
       objectReference: {fileID: 2097166470}
+    - target: {fileID: 2986875826837543422, guid: dcabcaa5af29b1341b04a688d0807bc3, type: 3}
+      propertyPath: interaction.dialogues.Array.data[0].sentence
+      value: Hey, can you help me?
+      objectReference: {fileID: 0}
+    - target: {fileID: 4421920700971822634, guid: dcabcaa5af29b1341b04a688d0807bc3, type: 3}
+      propertyPath: attackInterval
+      value: 1
+      objectReference: {fileID: 0}
     - target: {fileID: 4421920700971822634, guid: dcabcaa5af29b1341b04a688d0807bc3, type: 3}
       propertyPath: invisibleBarrier
       value: 
