@@ -86,7 +86,7 @@ public class Capelobo : MonoBehaviour, IAnimation
 
     public IEnumerator WaitTransform()
     {
-        yield return new WaitForSeconds(1);
+        yield return new WaitForSeconds(2);
         enemy.enabled = true;
         animator.SetTrigger("transform");
     }
