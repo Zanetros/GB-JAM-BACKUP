@@ -14,7 +14,7 @@ public class Capelobo : MonoBehaviour, IAnimation
     private void Start()
     {
         animator = GetComponent<Animator>();
-        enemy = GetComponent<Enemy>();  
+        enemy = GetComponent<Enemy>();
     }
 
     public void Transform()
@@ -73,6 +73,7 @@ public class Capelobo : MonoBehaviour, IAnimation
             {
                 Vector2 direction = (playerPosition - transform.position).normalized;
                 CapeloboProjectile projectileScript = projectile.GetComponent<CapeloboProjectile>();
+
                 if (projectileScript != null)
                 {
                     projectileScript.SetDirection(direction);
@@ -83,6 +84,7 @@ public class Capelobo : MonoBehaviour, IAnimation
             Debug.Log("Capelobo lançou um projétil!");
         }
     }
+
 
     public IEnumerator WaitTransform()
     {
