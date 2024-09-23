@@ -213,7 +213,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 0
+  m_IsActive: 1
 --- !u!114 &47563737
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -17592,6 +17592,10 @@ PrefabInstance:
       propertyPath: pauseMenu
       value: 
       objectReference: {fileID: 456736953}
+    - target: {fileID: 6297796814357115482, guid: 530c2242a4dc6704fad350828d16ea09, type: 3}
+      propertyPath: refillAudioClip
+      value: 
+      objectReference: {fileID: 8300000, guid: e93f6beb54f5f8d41975eccf9e28be28, type: 3}
     - target: {fileID: 7698175365047305175, guid: 530c2242a4dc6704fad350828d16ea09, type: 3}
       propertyPath: vignette
       value: 

@@ -21,6 +21,7 @@ public class PlayerController : MonoBehaviour
     private float normalSpeed;
     public float mudSpeed = 2.5f;
 
+    [SerializeField] private AudioClip refillAudioClip;
 
     private void Start()
     {
@@ -65,12 +66,12 @@ public class PlayerController : MonoBehaviour
     private void OnTriggerEnter2D(Collider2D collider)
     {
         if (collider.CompareTag("Refill"))
-        {         
+        {
+            SoundFXManager.instance.PlaySoundFXClip(refillAudioClip, transform, 3f);
             if (isChasing)
             {
                 lightObject.RechargeLight(collider.gameObject);
             }
-
             else
             {
                 isRefilled = true;
