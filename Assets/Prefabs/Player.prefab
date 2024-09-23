@@ -149,6 +149,7 @@ MonoBehaviour:
   lightRenderer: {fileID: 139958351068506783}
   playerCollider: {fileID: 3934605339625785152}
   mudSpeed: 2.5
+  refillAudioClip: {fileID: 8300000, guid: e93f6beb54f5f8d41975eccf9e28be28, type: 3}
 --- !u!114 &7637372135197951090
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -182,6 +183,7 @@ MonoBehaviour:
   restartPanel: {fileID: 0}
   isRestarting: 0
   currentScene: 0
+  hitAudio: {fileID: 8300000, guid: 9f7a6893f07ce5c40bead99cb2468c3a, type: 3}
 --- !u!61 &3934605339625785152
 BoxCollider2D:
   m_ObjectHideFlags: 0

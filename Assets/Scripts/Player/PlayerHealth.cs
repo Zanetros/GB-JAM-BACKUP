@@ -17,6 +17,8 @@ public class PlayerHealth : MonoBehaviour
 
     public static PlayerHealth instance;
 
+    [SerializeField] private AudioClip hitAudio;
+
     private void Update()
     {
 
@@ -45,6 +47,7 @@ public class PlayerHealth : MonoBehaviour
 
     public void TakeDamage(int damage)
     {
+        SoundFXManager.instance.PlaySoundFXClip(hitAudio, transform, 1f);
         if (health <= 1)
         {
             RetryLevelProcess();
